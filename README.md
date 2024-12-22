@@ -16,15 +16,15 @@ zphisher is an advanced phishing tool that allows users to conduct phishing atta
 ### Linux / macOS / Termux
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/htr-tech/zphisher.git
+   git clone https://github.com/Whitedevi5776/zphisher-
     ```
 2. **Navigate to the zphisher directory:**
     ```bash
-    cd zphisher
+    cd zphisher-
     ```
 3. **Run the setup script:**
     ```bash
-    bash zphisher.sh
+    bash zphisher-.sh
     ```
 
 ### Windows (via WSL)
@@ -34,7 +34,7 @@ zphisher is an advanced phishing tool that allows users to conduct phishing atta
 ## Usage
 1. **Run zphisher:**
     ```bash
-    bash zphisher.sh
+    bash zphisher-.sh
     ```
 2. **Select a phishing template from the menu.**
 3. **Follow the on-screen instructions to set up the phishing attack.**
@@ -47,7 +47,7 @@ zphisher is an advanced phishing tool that allows users to conduct phishing atta
 ## Usage
 1. **Run zphisher:**
     ```bash
-    bash zphisher.sh
+    bash zphisher-.sh
     ```
 2. **Select a phishing template from the menu.**
 3. **Follow the on-screen instructions to set up the phishing attack.**
